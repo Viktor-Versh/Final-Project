@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  max-width: 1440px;
+}
+
+.container {
+  margin: 0 150px;
+}
+
+header {
+  height: 900px;
+  background: url(/images1440/main-bg-1.png) top left/480px 900px no-repeat,
+    url(/images1440/main-bg-2.png) top center/480px 900px no-repeat,
+    url(/images1440/main-bg-3.png) top right/480px 900px no-repeat;
+}
+
+.header-line {
+}
+
+.burger {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+nav {
+  color: #ffffff;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+
